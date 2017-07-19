@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Digital clock</string>
+    <string name="am">နံနက္</string>
+    <string name="pm">ညေန</string>
+    <string name="sun">ေႏြ</string>
+    <string name="mon">လာ</string>
+    <string name="tues">ဂါ</string>
+    <string name="wed">ဟူး</string>
+    <string name="thurs">ေတး</string>
+    <string name="fri">ၾကာ</string>
+    <string name="sat">ေန</string>
+    <string name="one">\u1041</string>
+    <string name="two">\u1042</string>
+    <string name="three">\u1043</string>
+    <string name="four">\u1044</string>
+    <string name="five">\u1045</string>
+    <string name="six">\u1046</string>
+    <string name="seven">\u1047</string>
+    <string name="eight">\u1048</string>
+    <string name="nine">\u1049</string>
+    <string name="ten">၁၀</string>
+    <string name="eleven">၁၁</string>
+    <string name="tewelve">၁၂</string>
+    <string name="thirteen">၁၃</string>
+    <string name="fourteen">၁၄</string>
+    <string name="fifteen">၁၅</string>
+    <string name="sixteen">၁၆</string>
+    <string name="seventeen">၁၇</string>
+    <string name="eighteen">၁၈</string>
+    <string name="ninteen">၁၉</string>
+    <string name="twenty">၂၀</string>
+    <string name="twentyone">၂၁</string>
+    <string name="twentytwo">၂၂</string>
+    <string name="twentythree">၂၃</string>
+    <string name="twentyfour">၂၄</string>
+    <string name="twentyfive">၂၅</string>
+    <string name="twentysix">၂၆</string>
+    <string name="twentyseven">၂၇</string>
+    <string name="twentyeight">၂၈</string>
+    <string name="twentynine">၂၉</string>
+    <string name="therty">၃၀</string>
+    <string name="thertyone">၃၁</string>
+    
+
+</resources>

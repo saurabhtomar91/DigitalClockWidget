@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/digital_clock"
+    android:minWidth="304dip"
+    android:minHeight="60dip"
+    android:previewImage="@drawable/forwidget_en"
+    android:updatePeriodMillis="0">
+</appwidget-provider>
